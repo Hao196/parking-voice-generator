@@ -1,0 +1,4 @@
+edge-tts>=6.1.12
+gradio>=4.0.0
+imageio-ffmpeg>=0.4.9
+mutagen>=1.47.0
